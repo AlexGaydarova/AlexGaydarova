@@ -10,9 +10,9 @@ Adobe PhotoShop
 <details>
   <summary>Certificates</summary>
 
- # |                         Course:                        |                 Information:                         |  Certificate:                      |
-   | -------------------------------------------------------| -----------------------------------------------------| -------------------                |
-   |    Programming Basics with JavaScript - February 2021  |  Issue date: 23/03/2021 ,  Grade: 5.99 (out of 6.00) | <a href="https://softuni.bg/certificates/details/101881/5c00e3e9">JavaScript Programming Basics</a>
+  |                         Course:                        |                 Information:                         |  Certificate:                      |
+  | -------------------------------------------------------| -----------------------------------------------------| -------------------                |
+  |    Programming Basics with JavaScript - February 2021  |  Issue date: 23/03/2021 ,  Grade: 5.99 (out of 6.00) | <a href="https://softuni.bg/certificates/details/101881/5c00e3e9">JavaScript Programming Basics</a>
  
 
   
