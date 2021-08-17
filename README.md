@@ -9,7 +9,7 @@ Adobe PhotoShop
 
 <details>
   <summary>Certificates</summary>
-  ![Certificate-Basics](https://user-images.githubusercontent.com/86298268/129679419-0b024c0f-46b4-4063-9080-aa826c136cc8.jpg)
+  https://user-images.githubusercontent.com/86298268/129679419-0b024c0f-46b4-4063-9080-aa826c136cc8.jpg
 
  
 </details>
