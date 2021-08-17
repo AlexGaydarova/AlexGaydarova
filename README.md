@@ -6,13 +6,10 @@ Adobe PhotoShop
 
 
 
-# A collapsible section with markdown
+
 <details>
   <summary>Certificates</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
+  ![Certificate-Basics](https://user-images.githubusercontent.com/86298268/129679419-0b024c0f-46b4-4063-9080-aa826c136cc8.jpg)
+
+ 
 </details>
