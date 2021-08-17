@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @AlexGaydarova
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-AlexGaydarova/AlexGaydarova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![softUni](https://user-images.githubusercontent.com/86298268/129677748-bb35591b-c25a-4249-b0ea-aeb34700752d.png)
+JavaScript 
+HTML
+CSS
+Adobe PhotoShop
